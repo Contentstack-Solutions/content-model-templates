@@ -1,0 +1,25 @@
+{"level":"info","message":"Starting assets export","timestamp":"2020-10-25T15:37:16.053Z"}
+{"level":"info","message":"Downloaded Content&Gatsby.jpg: blt0f60190d3a4f7c1a successfully!","timestamp":"2020-10-25T15:37:17.223Z"}
+{"level":"info","message":"Batch no 1 of assets is complete","timestamp":"2020-10-25T15:37:17.224Z"}
+{"level":"info","message":"No folders were found in the stack!","timestamp":"2020-10-25T15:37:17.542Z"}
+{"level":"info","message":"\u001b[32mAsset export completed successfully\u001b[39m","timestamp":"2020-10-25T15:37:17.542Z"}
+{"level":"info","message":"Starting locale export","timestamp":"2020-10-25T15:37:17.545Z"}
+{"level":"info","message":"No locales, other than master-locale were found in the Stack","timestamp":"2020-10-25T15:37:17.854Z"}
+{"level":"info","message":"Starting environment export","timestamp":"2020-10-25T15:37:17.857Z"}
+{"level":"info","message":"\u001b[32mAll the environments have been exported successfully\u001b[39m","timestamp":"2020-10-25T15:37:18.166Z"}
+{"level":"info","message":"Starting extension export","timestamp":"2020-10-25T15:37:18.168Z"}
+{"level":"info","message":"Starting webhooks export","timestamp":"2020-10-25T15:37:18.486Z"}
+{"level":"info","message":"No webhooks were found in the Stack","timestamp":"2020-10-25T15:37:18.803Z"}
+{"level":"info","message":"Starting Global Fields export","timestamp":"2020-10-25T15:37:18.806Z"}
+{"level":"info","message":"No Global Fields were found in the Stack","timestamp":"2020-10-25T15:37:19.112Z"}
+{"level":"info","message":"Starting content type export","timestamp":"2020-10-25T15:37:19.115Z"}
+{"level":"info","message":"\u001b[32mContent type export completed successfully\u001b[39m","timestamp":"2020-10-25T15:37:19.427Z"}
+{"level":"info","message":"Starting entry migration","timestamp":"2020-10-25T15:37:19.428Z"}
+{"level":"info","message":"Completed exporting authors content type's entries in en-us locale","timestamp":"2020-10-25T15:37:20.063Z"}
+{"level":"info","message":"Completed exporting blogs content type's entries in en-us locale","timestamp":"2020-10-25T15:37:20.684Z"}
+{"level":"info","message":"Completed exporting home_page content type's entries in en-us locale","timestamp":"2020-10-25T15:37:21.333Z"}
+{"level":"info","message":"Entry migration completed successfully","timestamp":"2020-10-25T15:37:21.333Z"}
+{"level":"info","message":"Starting labels export","timestamp":"2020-10-25T15:37:21.335Z"}
+{"level":"info","message":"No labels, other than master-labels were found in the Stack","timestamp":"2020-10-25T15:37:21.641Z"}
+{"level":"info","message":"\u001b[32mStack: blt7b7494a0af273faf has been exported succesfully!\u001b[39m","timestamp":"2020-10-25T15:37:21.642Z"}
+{"level":"info","message":"The log for this is stored at logs/export","timestamp":"2020-10-25T15:37:21.642Z"}
