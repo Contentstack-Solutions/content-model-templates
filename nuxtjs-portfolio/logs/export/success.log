@@ -1,0 +1,44 @@
+{"level":"info","message":"Starting assets export","timestamp":"2020-10-26T14:14:01.231Z"}
+{"level":"info","message":"Downloaded gaming3.jpg: blt628aee02a6190456 successfully!","timestamp":"2020-10-26T14:14:03.668Z"}
+{"level":"info","message":"Downloaded gaming2.jpg: blt98e607642c80873f successfully!","timestamp":"2020-10-26T14:14:03.737Z"}
+{"level":"info","message":"Downloaded gaming1.jpg: blt1ee4be810eb2b12d successfully!","timestamp":"2020-10-26T14:14:04.415Z"}
+{"level":"info","message":"Downloaded cabin.png: blt3fcfe4d8b4b97155 successfully!","timestamp":"2020-10-26T14:14:05.415Z"}
+{"level":"info","message":"Downloaded profile.png: blt5bce39da6df78b41 successfully!","timestamp":"2020-10-26T14:14:05.493Z"}
+{"level":"info","message":"Downloaded cake.png: bltdd43f438b43226b2 successfully!","timestamp":"2020-10-26T14:14:05.546Z"}
+{"level":"info","message":"Downloaded travel_blog_carousel_3.jpg: bltfc71b407f1dfc7a9 successfully!","timestamp":"2020-10-26T14:14:05.723Z"}
+{"level":"info","message":"Downloaded submarine.png: blt78900fa546e745a7 successfully!","timestamp":"2020-10-26T14:14:05.967Z"}
+{"level":"info","message":"Downloaded circus.png: bltc9ead05abb6e0a35 successfully!","timestamp":"2020-10-26T14:14:06.028Z"}
+{"level":"info","message":"Downloaded safe.png: bltb1082b71d680c795 successfully!","timestamp":"2020-10-26T14:14:06.095Z"}
+{"level":"info","message":"Downloaded game.png: bltff1ef92cc9867ea8 successfully!","timestamp":"2020-10-26T14:14:06.273Z"}
+{"level":"info","message":"Downloaded travel_blog_carousel_5.jpg: blt55a8ae204a6315ec successfully!","timestamp":"2020-10-26T14:14:06.790Z"}
+{"level":"info","message":"Downloaded travel_blog.jpg: blt730ee111ca1227f3 successfully!","timestamp":"2020-10-26T14:14:07.262Z"}
+{"level":"info","message":"Downloaded food_blog.jpg: bltf0d763dd04359d75 successfully!","timestamp":"2020-10-26T14:14:07.388Z"}
+{"level":"info","message":"Downloaded sports.jpg: blt5eec005c1c7a50c9 successfully!","timestamp":"2020-10-26T14:14:08.595Z"}
+{"level":"info","message":"Downloaded technology.jpg: blt8b19ff16e78e8ee8 successfully!","timestamp":"2020-10-26T14:14:08.644Z"}
+{"level":"info","message":"Downloaded education.jpg: blt83a817b28bb86eee successfully!","timestamp":"2020-10-26T14:14:08.914Z"}
+{"level":"info","message":"Downloaded Blog_banner.jpg: bltfe3a9ffaa4a2794b successfully!","timestamp":"2020-10-26T14:14:09.411Z"}
+{"level":"info","message":"Downloaded gaming.jpg: blt074d4a7ea5c51072 successfully!","timestamp":"2020-10-26T14:14:09.800Z"}
+{"level":"info","message":"Batch no 1 of assets is complete","timestamp":"2020-10-26T14:14:09.801Z"}
+{"level":"info","message":"No folders were found in the stack!","timestamp":"2020-10-26T14:14:10.111Z"}
+{"level":"info","message":"\u001b[32mAsset export completed successfully\u001b[39m","timestamp":"2020-10-26T14:14:10.112Z"}
+{"level":"info","message":"Starting locale export","timestamp":"2020-10-26T14:14:10.115Z"}
+{"level":"info","message":"No locales, other than master-locale were found in the Stack","timestamp":"2020-10-26T14:14:10.432Z"}
+{"level":"info","message":"Starting environment export","timestamp":"2020-10-26T14:14:10.435Z"}
+{"level":"info","message":"\u001b[32mAll the environments have been exported successfully\u001b[39m","timestamp":"2020-10-26T14:14:10.736Z"}
+{"level":"info","message":"Starting extension export","timestamp":"2020-10-26T14:14:10.738Z"}
+{"level":"info","message":"Starting webhooks export","timestamp":"2020-10-26T14:14:11.042Z"}
+{"level":"info","message":"No webhooks were found in the Stack","timestamp":"2020-10-26T14:14:11.350Z"}
+{"level":"info","message":"Starting Global Fields export","timestamp":"2020-10-26T14:14:11.353Z"}
+{"level":"info","message":"No Global Fields were found in the Stack","timestamp":"2020-10-26T14:14:11.670Z"}
+{"level":"info","message":"Starting content type export","timestamp":"2020-10-26T14:14:11.673Z"}
+{"level":"info","message":"\u001b[32mContent type export completed successfully\u001b[39m","timestamp":"2020-10-26T14:14:12.052Z"}
+{"level":"info","message":"Starting entry migration","timestamp":"2020-10-26T14:14:12.054Z"}
+{"level":"info","message":"Completed exporting header content type's entries in en-us locale","timestamp":"2020-10-26T14:14:12.672Z"}
+{"level":"info","message":"Completed exporting home content type's entries in en-us locale","timestamp":"2020-10-26T14:14:13.315Z"}
+{"level":"info","message":"Completed exporting blog_posts content type's entries in en-us locale","timestamp":"2020-10-26T14:14:14.101Z"}
+{"level":"info","message":"Completed exporting footer content type's entries in en-us locale","timestamp":"2020-10-26T14:14:14.725Z"}
+{"level":"info","message":"Entry migration completed successfully","timestamp":"2020-10-26T14:14:14.726Z"}
+{"level":"info","message":"Starting labels export","timestamp":"2020-10-26T14:14:14.728Z"}
+{"level":"info","message":"No labels, other than master-labels were found in the Stack","timestamp":"2020-10-26T14:14:15.048Z"}
+{"level":"info","message":"\u001b[32mStack: bltbaf6b339f605c4db has been exported succesfully!\u001b[39m","timestamp":"2020-10-26T14:14:15.049Z"}
+{"level":"info","message":"The log for this is stored at export/logs/export","timestamp":"2020-10-26T14:14:15.049Z"}
